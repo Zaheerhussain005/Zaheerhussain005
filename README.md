@@ -53,8 +53,7 @@ A sleek and modern portfolio showcasing my projects and skills.
 ## 📫 Contact Me
 
 - 📧 **Email:** zaheer@example.com  
-- 💼 [**LinkedIn**](https://linkedin.com/in/yourprofile)  
-- 🐦 [**Twitter**](https://twitter.com/yourhandle)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/zaheer-hussain-005/)  
 
 ---
 
