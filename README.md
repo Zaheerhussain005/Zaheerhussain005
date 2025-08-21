@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+<img align="center" width="100%" alt="" src="https://github.com/Zaheerhussain005/Zaheerhussain005/blob/main/gifs/cdr.gif" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Zaheer Hussain!](https://zaheerhussain.vercel.app/) <img src="https://komarev.com/ghpvc/?username=Zaheerhussain005&color=blue&style=flat-square" height="20px">
 
