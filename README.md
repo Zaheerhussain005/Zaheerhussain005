@@ -1,60 +1,94 @@
-# 👋 Hi, I'm Zaheer Hussain
+<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Zaheer Hussain!](https://zaheerhussain.vercel.app/) <img src="https://komarev.com/ghpvc/?username=Zaheerhussain005&color=blue&style=flat-square" height="20px">
 
 🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**  
 
-Welcome to my GitHub! I love building modern, responsive, and user-friendly web applications.  
-Check out my work here 👉 [**Portfolio Website**](https://zaheerhussain.vercel.app/)
+I’m passionate about building **modern, responsive, and scalable web applications**.  
+Currently learning **Next.js, TypeScript, and Cloud Technologies** while improving my skills in **backend & system design**.  
+
+I love collaborating on projects that make a real impact and contribute to open source 🌍.  
+
+<p>
+<a href="mailto:zaheer@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/zaheer-hussain-005/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://zaheerhussain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" height=25></a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Quick Facts About Me:
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" width="200"/>
 
-- 💡 Passionate about creating **scalable and efficient applications**
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **Cloud Technologies**
-- 🛠 Love working on **full-stack web applications**
-- 🎯 Goal: Keep improving and contribute to open-source
+- 🔭 Currently working on **Full Stack projects (MERN + Next.js)**  
+- 🌱 Expanding knowledge in **Cloud & DevOps**  
+- 👯 Looking to collaborate on **Open Source & SaaS ideas**  
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB**  
+- 📫 Reach me via [Email](mailto:zaheer@example.com)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving problems more than creating them 🤓  
 
 ---
 
-## 🚀 Tech Stack
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+## 🛠️ Languages & Tools I Use:
+<p align="center">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="35"/></code>
+    <code><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="35"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35"/></code>
+</p>
 
 ---
 
 ## 📂 Featured Projects
-
-### [🌟 Portfolio Website](https://zaheerhussain.vercel.app/)
-A sleek and modern portfolio showcasing my projects and skills.  
-**Tech Used:** Next.js, Tailwind CSS, Vercel Hosting
+<table align="center">
+  <thead>
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull Requests</b></td>
+      <td><b>👨‍💻 Language</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://zaheerhussain.vercel.app/"><b>Portfolio Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Zaheerhussain005/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Zaheerhussain005/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Zaheerhussain005/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Zaheerhussain005/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/Zaheerhussain005/portfolio?style=flat-square"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 📫 Contact Me
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zaheerhussain005&theme=flat&column=6"/>
+</p>
 
-- 📧 **Email:** zaheer@example.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/zaheer-hussain-005/)  
+---
+
+## 📊 GitHub Stats:
+<img alt="Zaheer's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zaheerhussain005&theme=white&&hide_border=true" width='48%' /> 
+<img alt="Zaheer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zaheerhussain005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 
 ---
 
 ⭐ **If you like my work, don't forget to star my repositories!** ⭐
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
